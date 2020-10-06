@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2020-string-chapter
+image: jelaniwoods/appdev2020-string-chapter:latest
 
 tasks:
   - init: bin/setup
